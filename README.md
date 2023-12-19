@@ -55,15 +55,5 @@ function triggerBookingForm(event) {
 }
 
 ```
-
-**3. Remember:**
-
-  - Choose reliable and secure APIs for your integrations.
-  - Understand the API documentation to use their functionalities effectively.
-  - Test and refine your implementations to ensure smooth user experience.
-
-**Bonus Tip:** Explore Webflow's "Custom Code" feature and libraries like Axios to streamline your API interactions.
-
-
 # Need Help?
 Want to build a [custom webflow page](https://epyc.in/)?
